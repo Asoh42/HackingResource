@@ -4,7 +4,7 @@
 ## 1. 原创培训教程目录
 原创培训教程会不定期对外公开，教学和培训，答疑等活动在知识星球内部进行，请加入星球一起学习。
 
-<img src='img/00.jpeg' style='width:400px'>
+<img src='img/00.jpeg' width=400px>
 
 ### Python黑客编程之极速入门
 
